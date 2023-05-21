@@ -1,5 +1,9 @@
 sdsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
+<<<<<<< HEAD
 At Kaizen, we own the work we do, we deliver on time and in full, no matter what. It is what we do, and we do it with the highest quality standards.
 
 Technical expertise wins games, teams win championships. At Kaizen, one team means we respect each other, we value our diversity and we destroy silos where we see them. We win because we are ONE.
+=======
+At Kaizen, we own the work we do, we deliver on time and in full, no matter what. It is what we do, and we do it with the highest quality standards.
+>>>>>>> personal_quotes
